@@ -1,1 +1,1 @@
-# Curso-Basico-de-Programacion-en-Go-de-Platzi
+# Curso Básico de Programación en Go
