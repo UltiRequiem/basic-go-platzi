@@ -1,7 +1,7 @@
 # Curso Básico de Programación en Go
 <div align="center"> <img src="https://i.ibb.co/ThHyL8s/Captura-de-pantalla-de-2020-08-05-15-21-01.png" width="500"> </div>
 
-## Indice:
+## Indice de Notas y Codigo:
 - [Hello World](./src/01_Hello-World)
 - [Constantes](./src/02_Constantes)
 - [Variables](./src/03_Variables)
