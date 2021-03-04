@@ -1,5 +1,8 @@
 # Curso Básico de Programación en Go
+Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
+
 <div align="center"> <img src="https://i.ibb.co/ThHyL8s/Captura-de-pantalla-de-2020-08-05-15-21-01.png" width="500"> </div>
+
 
 ## Indice de Notas y Codigo:
 - [Hello World](./src/01_Hello-World)
