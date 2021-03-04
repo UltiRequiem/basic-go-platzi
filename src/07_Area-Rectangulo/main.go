@@ -4,10 +4,10 @@ import "fmt"
 
 func main() {
 	// Información de mi rectángulo:
-	ladoRectangulo := 100
-	altoRectangulo := 20
+	const ladoRectangulo int16 = 100
+	const altoRectangulo int16 = 20
 
-	areaRectangulo := ladoRectangulo * altoRectangulo
+	const areaRectangulo int16 = ladoRectangulo * altoRectangulo
 
 	fmt.Println("El Area del Rectángulo es :", areaRectangulo)
 
