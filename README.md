@@ -20,3 +20,9 @@
 - [Guía de Instalación](https://golang.org/doc/install)
 - [Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))
 - [Gopherize Me](https://gopherize.me)
+
+### Datos del Profesor:
+- [Twitter](https://twitter.com/osmandi)
+- [GitHub](https://github.com/osmandi)
+- [Pagina Personal](https://osmandi.com)
+- [Platzi](https://platzi.com/p/osmandi)
