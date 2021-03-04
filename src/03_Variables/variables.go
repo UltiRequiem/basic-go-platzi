@@ -11,4 +11,5 @@ func main() {
 	area := altura * base
 
 	fmt.Println(base, altura, area)
+
 }
