@@ -4,25 +4,25 @@ import "fmt"
 
 func main() {
 	// Valores:
-	var x int16 = 100
-	var y int16 = 50
+	var x uint16 = 100
+	var y uint16 = 50
 
 	//Suma:
-	var sumaResult int16 = x + y
+	var sumaResult uint16 = x + y
 	//Resta:
 	restaResult := x - y
 
 	fmt.Println("La suma de los 2 valores es ", sumaResult, ".Mientras que su resta equivale a ", restaResult, ".")
 
 	//Multiplicacion:
-	var multiResult int16 = x * y
+	var multiResult uint16 = x * y
 	// División:
-	var diviResult int16 = x / y
+	var diviResult uint16 = x / y
 
 	fmt.Println("La multiplicación de los dos valores es", multiResult, " y su divisón es igual a", diviResult, ".")
 
 	// Modulo:
-	var modulResult int16 = x % y
+	var modulResult uint16 = x % y
 
 	fmt.Println("El modulo de los dos valores es: ", modulResult)
 
