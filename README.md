@@ -20,6 +20,7 @@
 ### Otros Recursos Interesantes:
 - [Curso Práctico de Go: Creación de un Servidor Web](https://platzi.com/clases/programacion-golang-2020)
 - [Golang WebPage](https://golang.org)
+- [Golang Packages](https://golang.org/pkg)
 - [Guía de Instalación](https://golang.org/doc/install)
 - [Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))
 - [Gopherize Me](https://gopherize.me)
