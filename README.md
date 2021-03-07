@@ -19,7 +19,7 @@
 - [Funciones](./src/11_Funciones)
 - [Área Funciones](./src/12_Area-Funciones)
 
-[Playlist con la ejecución de todos los ejercicios](tinyurl.com/platzigo)
+[Playlist con la ejecución de todos los ejercicios](https://tinyurl.com/platzigo)
 
 ### Otros Recursos Interesantes:
 - [Curso Práctico de Go: Creación de un Servidor Web](https://platzi.com/clases/programacion-golang-2020)
