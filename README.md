@@ -16,8 +16,8 @@
     - [Trapecio](./src/08_Area-Trapecio)
     - [Circulo](./src/09_Area-Circulo)
 - [Paquete fmt](./src/10_Paquete-FMT)
-- [Paquete fmt](./src/11_Funciones)
-- [Paquete fmt](./src/12_Area-Funciones)
+- [Funciones](./src/11_Funciones)
+- [Área Funciones](./src/12_Area-Funciones)
 
 ### Otros Recursos Interesantes:
 - [Curso Práctico de Go: Creación de un Servidor Web](https://platzi.com/clases/programacion-golang-2020)
