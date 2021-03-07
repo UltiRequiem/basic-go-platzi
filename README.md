@@ -15,7 +15,7 @@
     - [Rectangulo](./src/07_Area-Rectangulo)
     - [Trapecio](./src/08_Area-Trapecio)
     - [Circulo](./src/09_Area-Circulo)
-
+- [Paquete fmt](./src/10_Paquete-FMT)
 
 ### Otros Recursos Interesantes:
 - [Curso Práctico de Go: Creación de un Servidor Web](https://platzi.com/clases/programacion-golang-2020)
