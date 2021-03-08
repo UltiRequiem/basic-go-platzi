@@ -5,8 +5,6 @@ El Editor Recomendado para este curso es VSCode, si es que estas utilizando este
 <div align="center">
 <a href="https://youtu.be/Afq6LN892cY"><img src="./../../img/01-min.png"/></a>
 </div>
-(Si quieres ver la ejecuión grabada puedes darle click)
-
 
 ## Continua la lectura:
 
