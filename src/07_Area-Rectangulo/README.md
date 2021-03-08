@@ -3,6 +3,6 @@
 <a href="https://youtu.be/I2JYGaCvzvs"><img src="./../../img/07-min.png"/></a>
 </div>
 
-- [Capitulo Anterior: Zero Values](./../06_Operadores-Matematicos)                                                                 
+- [Capitulo Anterior: Operadores Matemáticos](./../06_Operadores-Matematicos)                                                                 
 
-- [Capitulo Siguiente: Calcular el área del Cuadrado](./../08_Area-Trapecio)
+- [Capitulo Siguiente: Calcular el área de un Trapecio](./../08_Area-Trapecio)
