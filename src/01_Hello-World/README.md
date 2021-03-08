@@ -6,4 +6,4 @@
 
 - [Indice](./../../README.md)                                                                 
 
-- [Capitulo Siguiente: Constantes](./../02_Constantes/README.md)
+- [Capitulo Siguiente: Constantes](./../02_Constantes)

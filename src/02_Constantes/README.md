@@ -5,4 +5,4 @@
 
 - [Capitulo Anterior: Hello World](./../01_Hello-World/README.md)                                                                 
 
-- [Capitulo Siguiente: Variables](./../03_Variables/README.md)
+- [Capitulo Siguiente: Variables](./../03_Variables)
