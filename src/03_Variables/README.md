@@ -5,7 +5,7 @@ Las variables se pueden declarar de varias formas:
 ```go
 func main() {
 	primeraForma := 1 //Bastante Parecida a Python
-    var segundaForma = 2 //Como en JavaScript
+    	var segundaForma = 2 //Como en JavaScript
 	var terceraForma int16 = 3 // Parecido a C++
 }
 ```
