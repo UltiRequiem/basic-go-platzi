@@ -28,6 +28,7 @@
 - [Golang WebPage](https://golang.org)
 - [Golang Packages](https://golang.org/pkg)
 - [Guía de Instalación](https://golang.org/doc/install)
+- [Blog de Go](https://blog.golang.org/go-brand)
 - [Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))
 - [Gopherize Me](https://gopherize.me)
 - [Adda Tutorial](https://www.w3adda.com/golang-tutorial)
