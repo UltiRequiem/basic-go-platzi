@@ -3,9 +3,11 @@ Las variables son valores que pueden ir cambiando en diversas partes del codigo 
 
 Las variables se pueden declarar de varias formas:
 ```go
+func main() {
 	primeraForma := 1 //Bastante Parecida a Python
     var segundaForma = 2 //Como en JavaScript
 	var terceraForma int16 = 3 // Parecido a C++
+}
 ```
 Pero la forma que menos recursos gasta es la 3ra siendo la que especifica mas cosas y ahorra mas trabajo al compilador.
 
