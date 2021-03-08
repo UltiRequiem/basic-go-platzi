@@ -1,4 +1,6 @@
 # Constantes
+Las constantes son valores que nunca van a cambiar en el tiempo. Si es que tratas de cambiarle el valor, el runtime de Go dara un error, si es que necesitas poder cambiarle el valor lo que debes usar son [variables](./../03_Variables).
+
 Declarar constantes en Go es muy intuitivo:
 ```go
 func main() {
