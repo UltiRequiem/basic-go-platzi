@@ -1,5 +1,5 @@
 # Variables
-Las variables son valores que pueden ir cambiando en diversas partes del codigo segun como lo especifiques, pero gastan mas recursos que las [constantes](./../02_Costantes).
+Las variables son valores que pueden ir cambiando en diversas partes del codigo segun como lo especifiques, pero gastan mas recursos que las [constantes](./../02_Constantes).
 
 Las variables se pueden declarar de varias formas:
 ```go
