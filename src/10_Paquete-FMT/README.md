@@ -15,6 +15,20 @@ fmt.Printf("%s tiene más de %d cursos\n", nombre, cursos)
 var message string = fmt.Sprintf("%v tiene más de %v cursos\n", nombre, cursos)
 fmt.Println(message)
 ```
+## Imprimir el tipo de dato:
+Con este paquete podemos imprimir en consola el tipo de dato de variables o constantes. Ejemplo de uso:
+```go
+package main
+
+import "fmt"
+
+func main() {
+
+	const nombre string = "UltiRequiem"
+
+	fmt.Printf("La variable 'nombre' es de tipo : %T\n", nombre)
+}
+```
 
 <div align="center">
 <a href="https://youtu.be/vhL91VdPSI8"><img src="./../../img/10-min.png"/></a>
