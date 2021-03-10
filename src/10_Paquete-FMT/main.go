@@ -11,15 +11,15 @@ func main() {
 	fmt.Println(helloMessage, worldMessage)
 
 	// Printf
-	nombre := "Platzi"
-	cursos := 500
+	const nombre string = "Platzi"
+	const cursos int = 500
 	// Con valores seguros
 	fmt.Printf("%s tiene más de %d cursos\n", nombre, cursos)
 	// Con valores inseguros
 	fmt.Printf("%v tiene más de %v cursos\n", nombre, cursos)
 
 	// Sprintf
-	message := fmt.Sprintf("%v tiene más de %v cursos\n", nombre, cursos)
+	var message string = fmt.Sprintf("%v tiene más de %v cursos\n", nombre, cursos)
 	fmt.Println(message)
 
 	// Tipo de datos:
