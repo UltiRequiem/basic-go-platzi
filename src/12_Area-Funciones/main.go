@@ -2,29 +2,30 @@ package main
 
 import "fmt"
 
-func calcularAreaRectangulo(baseRectangulo, alturaRectangulo int) {
-	areaRectangulo := baseRectangulo * alturaRectangulo
+func AreaRectangulo(baseRectangulo, alturaRectangulo int) {
+	var areaRectangulo int = baseRectangulo * alturaRectangulo
 	fmt.Println(areaRectangulo)
 }
 
-func calcularAreaTrapecio(baseMenor, baseMayor, altura int) {
-	areaTrapecio := (baseMenor + baseMayor) * altura / 2
-	fmt.Println(areaTrapecio)
+func AreaTrapeze(baseMenor, baseMayor, altura int) {
+	var areaTrapeze int = (baseMenor + baseMayor) * altura / 2
+
+	fmt.Println(areaTrapeze)
 }
 
-func calcularAreaCirculo(radio float64) {
+func areaCircle(radio float64) {
 	const pi float64 = 3.14
-	areaCirculo := pi * radio * radio
+	var areaCircle float64 = pi * radio * radio
 
-	fmt.Println(areaCirculo)
+	fmt.Println(areaCircle)
 }
 
 func main() {
 
-	calcularAreaRectangulo(5, 10)
+	AreaRectangulo(10, 20)
 
-	calcularAreaTrapecio(5, 10, 3)
+	AreaTrapeze(15, 7, 25)
 
-	calcularAreaCirculo(10)
+	areaCircle(50)
 
 }
