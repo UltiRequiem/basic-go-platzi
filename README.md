@@ -3,7 +3,7 @@
 
 
 <div align="center"> 
-<a href="https://platzi.com/clases/programacion-golang"><img src="https://i.ibb.co/ThHyL8s/Captura-de-pantalla-de-2020-08-05-15-21-01.png" width="500"/></a>
+<a href="https://platzi.com/clases/programacion-golang"><img src="./img/platzigo.png" width="500"/></a>
 </div>
 
 ## Indice de Notas y Codigo:
