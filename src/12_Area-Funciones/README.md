@@ -5,3 +5,6 @@ En este programa hallaremos el areá de diversas figuras haciendo uso de las fun
 </div>
 
 ## Continua la lectura:
+- [Capitulo Anterior: Funciones](./../11_Funciones)                                                                 
+
+- [Capitulo Siguiente: El Ciclo For](./../13_For)
