@@ -3,8 +3,10 @@ package main
 import "fmt"
 
 func main() {
-	for i := 0; i <= 10; i++ {
+	var i int = 70
+	for i > 0 {
 		fmt.Println(i)
+		i--
 	}
 
 }
