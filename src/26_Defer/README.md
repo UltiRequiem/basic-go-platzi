@@ -1,4 +1,7 @@
-## Continua la lectura:
-- [Capitulo Anterior: El Paquete fmt](./../10_Paquete-FMT)                                                                 
+# Defer
 
-- [Capitulo Siguiente: Calcular el Área con Funciones](./../12_Area-Funciones)
+## Continua la lectura:
+- [Capitulo Anterior: Semestres](./../25_Semestres)                                                                 
+
+- [Capitulo Siguiente: Continue](./../27_Continue)
+

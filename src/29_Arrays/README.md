@@ -1,4 +1,6 @@
-## Continua la lectura:
-- [Capitulo Anterior: El Paquete fmt](./../10_Paquete-FMT)                                                                 
+# Arrays
 
-- [Capitulo Siguiente: Calcular el Área con Funciones](./../12_Area-Funciones)
+## Continua la lectura:
+- [Capitulo Anterior: Break](./../28_Break)                                                                 
+
+- [Capitulo Siguiente: Calcular el Área con Funciones](./../30_Slices)

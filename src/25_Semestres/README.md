@@ -1,7 +1,7 @@
-# Ciclo For Forever
+# Semestres
 
 ## Continua la lectura:
-- [Capitulo Anterior: Ciclo For While](./../14_For-While)                                                                 
+- [Capitulo Anterior: Dias de la Semana](./../24_Dias-Semana)                                                                 
 
-- [Capitulo Siguiente: Cuenta regresiva con ciclo for While](./../16_Cuenta-Regresiva)
+- [Capitulo Siguiente: Defer](./../26_Defer)
 
