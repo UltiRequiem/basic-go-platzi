@@ -1,4 +1,6 @@
-## Continua la lectura:
-- [Capitulo Anterior: El Paquete fmt](./../10_Paquete-FMT)                                                                 
+# Switch
 
-- [Capitulo Siguiente: Calcular el Área con Funciones](./../12_Area-Funciones)
+## Continua la lectura:
+- [Capitulo Anterior: ¿Par o Impar?](./../21_Par-Impar)                                                                 
+
+- [Capitulo Siguiente: Switch sin Condiciones](./../23_Switch-No-Condicion)

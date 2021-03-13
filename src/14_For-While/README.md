@@ -1,4 +1,6 @@
-## Continua la lectura:
-- [Capitulo Anterior: El Paquete fmt](./../10_Paquete-FMT)                                                                 
+# Ciclo For While
 
-- [Capitulo Siguiente: Calcular el Área con Funciones](./../12_Area-Funciones)
+## Continua la lectura:
+- [Capitulo Anterior: Ciclo For](./../13_For)                                                                 
+
+- [Capitulo Siguiente: Ciclo For Forver](./../15_For-Forever)
