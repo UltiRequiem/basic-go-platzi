@@ -20,6 +20,7 @@ func main() {
 
 	// Sprintf
 	var message string = fmt.Sprintf("%v tiene más de %v cursos\n", nombre, cursos)
+
 	fmt.Println(message)
 
 	// Tipo de datos:
