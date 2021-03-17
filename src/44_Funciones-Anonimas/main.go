@@ -6,9 +6,9 @@ import (
 )
 
 func main() {
-	go func() {
-		fmt.Println("Adios")
-	}()
+	go func(text string) {
+		fmt.Println(text)
+	}("Adios")
 
 	time.Sleep(time.Second * 1)
 }
