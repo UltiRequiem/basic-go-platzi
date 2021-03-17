@@ -46,7 +46,7 @@ func (c circle) getArea() float64 {
 }
 
 func calculateArea(f figure2D) {
-	fmt.Printf("Area of %s: %.2f\n", reflect.TypeOf(f).Name(), f.getArea())
+	fmt.Printf("La Área del %s: es  %.2f\n", reflect.TypeOf(f).Name(), f.getArea())
 }
 
 func main() {
@@ -54,6 +54,7 @@ func main() {
 	myRectangle := rectangle{width: 4, high: 5}
 	myTrapezoid := trapezoid{baseA: 18, baseB: 10, high: 5}
 	myCircle := circle{radio: 4}
+
 	calculateArea(mySquare)
 	calculateArea(myRectangle)
 	calculateArea(myTrapezoid)
