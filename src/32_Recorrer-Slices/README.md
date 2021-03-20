@@ -2,8 +2,8 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../31_Append-Slices)
+- [Capitulo Anterior: Append Slices](./../31_Append-Slices)
 
-- [Capitulo Siguiente: ](./../33_Detector-Palindromos)
+- [Capitulo Siguiente: Detector de Palindromos](./../33_Detector-Palindromos)
 
 

@@ -2,6 +2,6 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../35_Encontrar-Valor-Map)                                                                 
+- [Capitulo Anterior: Encontrar el valor de Map](./../35_Encontrar-Valor-Map)                                                                 
 
-- [Capitulo Siguiente: ](./../37_mypackage)
+- [Capitulo Siguiente: Manejando Paquetes](./../37_mypackage)

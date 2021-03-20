@@ -2,6 +2,6 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../39_Stringers)                                                                 
+- [Capitulo Anterior: Stringers](./../39_Stringers)                                                                 
 
-- [Capitulo Siguiente: ](./../41_Lista-Interfaces)
+- [Capitulo Siguiente: Lista de Interfaces](./../41_Lista-Interfaces)

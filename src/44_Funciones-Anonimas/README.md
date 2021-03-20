@@ -2,6 +2,6 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../43_GoRoutines)                                                                 
+- [Capitulo Anterior: Go Routines](./../43_GoRoutines)                                                                 
 
-- [Capitulo Siguiente: ](./../45_Channels)
+- [Capitulo Siguiente: Channels ](./../45_Channels)

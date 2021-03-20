@@ -2,6 +2,6 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../44_Funciones-Anonimas)                                                                 
+- [Capitulo Anterior: Funciones Anonimas](./../44_Funciones-Anonimas)                                                                 
 
-- [Capitulo Siguiente: ](./../)
+- [Capitulo Siguiente: Method len() y cap()](./../46_len-cap)

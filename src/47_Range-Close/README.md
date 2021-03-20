@@ -2,4 +2,4 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../46_len-cap)                                                                 
+- [Capitulo Anterior: Method len() y cap()](./../46_len-cap)                                                                 

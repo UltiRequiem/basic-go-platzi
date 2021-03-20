@@ -2,6 +2,6 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../37_mypackage)                                                                 
+- [Capitulo Anterior: Manejando Paquetes](./../37_mypackage)                                                                 
 
-- [Capitulo Siguiente: ](./../39_Stringers)
+- [Capitulo Siguiente: Stringers](./../39_Stringers)

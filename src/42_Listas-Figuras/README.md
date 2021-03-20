@@ -2,6 +2,6 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../41_Lista-Interfaces)                                                                 
+- [Capitulo Anterior: Lista de Interfaces](./../41_Lista-Interfaces)                                                                 
 
-- [Capitulo Siguiente: ](./../43_GoRoutines)
+- [Capitulo Siguiente: Go Routines](./../43_GoRoutines)

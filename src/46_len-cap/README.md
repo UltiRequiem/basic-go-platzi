@@ -2,6 +2,6 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../45_Channels)                                                                 
+- [Capitulo Anterior: Channels](./../45_Channels)                                                                 
 
-- [Capitulo Siguiente: ](./../47_Range-Close)
+- [Capitulo Siguiente: Range Close ](./../47_Range-Close)

@@ -2,6 +2,6 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../33_Detector-Palindromos)                                                                 
+- [Capitulo Anterior: Detector de Palindromos](./../33_Detector-Palindromos)                                                                 
 
-- [Capitulo Siguiente: ](./../35_Encontrar-Valor-Map)
+- [Capitulo Siguiente: Encontrar el valor de Map](./../35_Encontrar-Valor-Map)

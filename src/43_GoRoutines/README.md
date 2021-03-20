@@ -2,6 +2,6 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../42_Listas-Figuras)                                                                 
+- [Capitulo Anterior: Lista de Figuras](./../42_Listas-Figuras)                                                                 
 
-- [Capitulo Siguiente: ](./../44_Funciones-Anonimas)
+- [Capitulo Siguiente: Funciones Anonimas](./../44_Funciones-Anonimas)

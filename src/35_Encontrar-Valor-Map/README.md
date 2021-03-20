@@ -2,6 +2,6 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../34_Maps)                                                                 
+- [Capitulo Anterior: Maps](./../34_Maps)                                                                 
 
-- [Capitulo Siguiente: ](./../36_Structs)
+- [Capitulo Siguiente: Structs](./../36_Structs)

@@ -2,6 +2,6 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../32_Recorrer-Slices)
+- [Capitulo Anterior: Recorrer Slices](./../32_Recorrer-Slices)
 
-- [Capitulo Siguiente: ](./../34_Maps)
+- [Capitulo Siguiente: Maps](./../34_Maps)
