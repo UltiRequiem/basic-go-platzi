@@ -2,6 +2,6 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../)                                                                 
+- [Capitulo Anterior](./../40_Interfaces)                                                                 
 
-- [Capitulo Siguiente: ](./../)
+- [Capitulo Siguiente: ](./../42_Listas-Figuras)

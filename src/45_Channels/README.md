@@ -2,6 +2,6 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../)                                                                 
+- [Capitulo Anterior](./../44_Funciones-Anonimas)                                                                 
 
 - [Capitulo Siguiente: ](./../)

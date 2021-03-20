@@ -2,6 +2,6 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../)                                                                 
+- [Capitulo Anterior](./../35_Encontrar-Valor-Map)                                                                 
 
-- [Capitulo Siguiente: ](./../)
+- [Capitulo Siguiente: ](./../37_mypackage)

@@ -2,6 +2,6 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../)                                                                 
+- [Capitulo Anterior](./../38_Punteros)                                                                 
 
-- [Capitulo Siguiente: ](./../)
+- [Capitulo Siguiente: ](./../40_Interfaces)

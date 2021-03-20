@@ -2,6 +2,6 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../)                                                                 
+- [Capitulo Anterior](./../30_Slices)
 
-- [Capitulo Siguiente: ](./../)
+- [Capitulo Siguiente: ](./../32_Recorrer-Slices)

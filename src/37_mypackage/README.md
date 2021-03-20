@@ -2,6 +2,6 @@
 
 ## Continua la lectura:
 
-- [Capitulo Anterior](./../)                                                                 
+- [Capitulo Anterior](./../36_Structs)                                                                 
 
-- [Capitulo Siguiente: ](./../)
+- [Capitulo Siguiente: ](./../38_Punteros)
