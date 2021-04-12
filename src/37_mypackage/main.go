@@ -1,9 +1,8 @@
 package main
 
 import (
+	"Curso-Basico-de-Programacion-en-Go-de-Platzi/src/37_mypackage/car"
 	"fmt"
-
-	"github.com/UltiRequiem/Curso-Basico-de-Programacion-en-Go-de-Platzi/go/src/Curso-Basico-de-Programacion-en-Go-de-Platzi/src/37_mypackage/car"
 )
 
 func main() {
@@ -15,8 +14,5 @@ func main() {
 
 	car.PrintMessage("Funcion Publica")
 
-	car.printMessage("Funcion Privada")
-
-	//	var myOtherCar car.carPrivate
-	//	fmt.Println(myOtherCar)
+	//car.printMessage("Funcion Privada")
 }
