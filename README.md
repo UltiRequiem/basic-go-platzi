@@ -1,8 +1,9 @@
 # Curso Básico de Programación en Go
 
-"Go is an open source programming language that makes it easy to build simple, reliable, and efficient software."
+"Go is an open source programming language that makes it easy to build simple,
+reliable, and efficient software."
 
-<div align="center"> 
+<div align="center">
 <a href="https://platzi.com/clases/programacion-golang"><img src="./img/platzigo.png" width="500"/></a>
 </div>
 
@@ -63,7 +64,7 @@
 - [Golang Packages](https://golang.org/pkg)
 - [Guía de Instalación](https://golang.org/doc/install)
 - [Blog de Go](https://blog.golang.org/go-brand)
-- [Wikipedia](<https://en.wikipedia.org/wiki/Go_(programming_language)>)
+- [Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))
 - [Gopherize Me](https://gopherize.me)
 - [Adda Tutorial](https://www.w3adda.com/golang-tutorial)
 

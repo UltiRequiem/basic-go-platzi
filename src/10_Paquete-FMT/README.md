@@ -1,6 +1,7 @@
 # fmt
 
-El paquete [fmt](https://golang.org/pkg/fmt) es el que se encarga de administrar los inputs y outputs de la terminal.
+El paquete [fmt](https://golang.org/pkg/fmt) es el que se encarga de administrar
+los inputs y outputs de la terminal.
 
 ## Tipos de Print:
 
@@ -10,13 +11,15 @@ El paquete [fmt](https://golang.org/pkg/fmt) es el que se encarga de administrar
 fmt.Println("Hola Mundo")
 ```
 
-- Printf: Es un print al cual le puedes especificar el tipo de objeto que le vas a dar. Ejemplo:
+- Printf: Es un print al cual le puedes especificar el tipo de objeto que le vas
+  a dar. Ejemplo:
 
 ```go
 fmt.Printf("%s tiene más de %d cursos\n", nombre, cursos)
 ```
 
-- Sprintf: No imprime nada en consola, simplemente lo guarda como un String. Ejemplo de uso:
+- Sprintf: No imprime nada en consola, simplemente lo guarda como un String.
+  Ejemplo de uso:
 
 ```go
 var message string = fmt.Sprintf("%v tiene más de %v cursos\n", nombre, cursos)
@@ -25,7 +28,8 @@ fmt.Println(message)
 
 ## Imprimir el tipo de dato:
 
-Con este paquete podemos imprimir en consola el tipo de dato de variables o constantes. Ejemplo de uso:
+Con este paquete podemos imprimir en consola el tipo de dato de variables o
+constantes. Ejemplo de uso:
 
 ```go
 package main

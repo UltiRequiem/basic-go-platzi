@@ -1,6 +1,8 @@
 # Variables
 
-Las variables son valores que pueden ir cambiando en diversas partes del codigo segun como lo especifiques, pero gastan mas recursos que las [constantes](./../02_Constantes).
+Las variables son valores que pueden ir cambiando en diversas partes del codigo
+segun como lo especifiques, pero gastan mas recursos que las
+[constantes](./../02_Constantes).
 
 Las variables se pueden declarar de varias formas:
 
@@ -12,7 +14,8 @@ func main() {
 }
 ```
 
-Pero la forma que menos recursos gasta es la 3ra siendo la que especifica mas cosas y ahorra mas trabajo al compilador.
+Pero la forma que menos recursos gasta es la 3ra siendo la que especifica mas
+cosas y ahorra mas trabajo al compilador.
 
 <div align="center">
 <a href="https://youtu.be/a5NYAK-TXXE"><img src="./../../img/03-min.png"/></a>

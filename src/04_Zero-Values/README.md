@@ -1,6 +1,9 @@
 # Zero Values
 
-Algo que se debe tomar en cuenta en GO es que si no especificas el valor de tu [constante](./../02_Constantes) o [variable](./03_Variables) a diferencia de otros lenguajes que le asignan un valor null, GO le dara los valores por Default.
+Algo que se debe tomar en cuenta en GO es que si no especificas el valor de tu
+[constante](./../02_Constantes) o [variable](./03_Variables) a diferencia de
+otros lenguajes que le asignan un valor null, GO le dara los valores por
+Default.
 
 ### Valores por Default:
 

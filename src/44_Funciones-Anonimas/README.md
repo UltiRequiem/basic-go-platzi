@@ -4,4 +4,4 @@
 
 - [Capitulo Anterior: Go Routines](./../43_GoRoutines)
 
-- [Capitulo Siguiente: Channels ](./../45_Channels)
+- [Capitulo Siguiente: Channels](./../45_Channels)
